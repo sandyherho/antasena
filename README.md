@@ -140,9 +140,9 @@ See [`CITATION.cff`](CITATION.cff).
 * Schmidt, R., Wagner, W. (1985). A new form of the equation of state for pure substances and its application to oxygen. *Fluid Phase Equilib.* 19(3), 175–200. https://doi.org/10.1016/0378-3812(85)87016-3
 * Kunz, O., Wagner, W. (2012). The GERG-2008 wide-range equation of state for natural gases and other mixtures. *J. Chem. Eng. Data* 57(11), 3032–3091. https://doi.org/10.1021/je300655b
 * Bell, I. H., Wronski, J., Quoilin, S., Lemort, V. (2014). Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp. *Ind. Eng. Chem. Res.* 53(6), 2498–2508. https://doi.org/10.1021/ie4033999
-* Bühlmann, A. A. *Tauchmedizin* (Springer; several editions) and *Decompression–Decompression Sickness* (Springer, 1984): ZH-L16 coefficients. Book references; edition and DOI to be confirmed.
-* Schreiner, H. R., Kelley, P. L. (1971). A pragmatic view of decompression. In *Underwater Physiology IV* (Lambertsen, ed.), Academic Press. No DOI.
-* NOAA Diving Manual (oxygen exposure limits). No DOI; cite the edition used.
+* Bühlmann, A. A. *Tauchmedizin* (Springer; several editions) and *Decompression–Decompression Sickness* (Springer, 1984): ZH-L16 coefficients.
+* Schreiner, H. R., Kelley, P. L. (1971). A pragmatic view of decompression. In *Underwater Physiology IV* (Lambertsen, ed.), Academic Press.
+* NOAA Diving Manual (oxygen exposure limits). 
 
 ## License
 
