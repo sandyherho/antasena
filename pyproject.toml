@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "antasena"
+version = "0.0.1"
+description = "Rigorous, educational nitrox diving calculations and desktop app in pure Python"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Sandy H. S. Herho", email = "sandyherho@itb.ac.id" },
+  { name = "Iwan P. Anwar" },
+  { name = "Andini Alifah" },
+  { name = "Faruq Khadami" },
+  { name = "Karina A. Sujatmiko" },
+  { name = "Sito F. Biosa" },
+  { name = "Alfita P. Handayani" },
+  { name = "Dasapta E. Irawan" },
+]
+keywords = ["scuba", "nitrox", "diving", "decompression", "buhlmann", "equation of state",
+            "gas blending", "education"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Education",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7", "hypothesis>=6"]
+docs = ["sphinx>=7.2", "furo>=2024.1.29", "myst-parser>=2.0", "sphinx-copybutton>=0.5",
+        "sphinx-design>=0.5"]
+reference = ["CoolProp>=6.4"]  # only to regenerate the EOS table or run reference tests
+
+[project.scripts]
+antasena = "antasena.cli:main"
+
+[project.gui-scripts]
+antasena-app = "antasena.gui:launch"
+
+[project.urls]
+Source = "https://github.com/sandyherho/antasena"
+Documentation = "https://antasena.readthedocs.io"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"

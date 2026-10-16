@@ -1,0 +1,12 @@
+__pycache__/
+docs/_build/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.hypothesis/
+*.spec
+.venv/
+node_modules/
+package-lock.json

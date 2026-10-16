@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use antasena, please cite it as below."
+title: "antasena: rigorous, educational nitrox diving calculations in pure Python"
+version: 0.0.1
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/sandyherho/antasena"
+url: "https://antasena.readthedocs.io"
+keywords: [scuba diving, nitrox, decompression, Buhlmann, equation of state, gas blending, education]
+authors:
+  - family-names: Herho
+    given-names: Sandy H. S.
+    email: sandyherho@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
+  - family-names: Anwar
+    given-names: Iwan P.
+  - family-names: Alifah
+    given-names: Andini
+  - family-names: Khadami
+    given-names: Faruq
+  - family-names: Sujatmiko
+    given-names: Karina A.
+  - family-names: Biosa
+    given-names: Sito F.
+  - family-names: Handayani
+    given-names: Alfita P.
+  - family-names: Irawan
+    given-names: Dasapta E.
