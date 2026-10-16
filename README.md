@@ -4,6 +4,22 @@
 
 **Rigorous, educational nitrox diving calculations and a desktop app in pure Python.**
 
+[![Version](https://img.shields.io/badge/version-0.0.1-1f6f8b)](https://github.com/sandyherho/antasena)
+[![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Dependencies](https://img.shields.io/badge/dependencies-none%20(stdlib%20only)-2a9d6f)](https://docs.python.org/3/library/)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter-12385a)](https://docs.python.org/3/library/tkinter.html)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![Tests](https://github.com/sandyherho/antasena/actions/workflows/ci.yml/badge.svg)](https://github.com/sandyherho/antasena/actions/workflows/ci.yml)
+[![Docs](https://readthedocs.org/projects/antasena/badge/?version=latest)](https://antasena.readthedocs.io)
+[![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC?logo=pytest&logoColor=white)](https://pytest.org)
+[![Hypothesis](https://img.shields.io/badge/property%20tests-Hypothesis-6f42c1)](https://hypothesis.readthedocs.io)
+[![Sphinx](https://img.shields.io/badge/docs-Sphinx%20%2B%20Furo-0a507a?logo=sphinx&logoColor=white)](https://www.sphinx-doc.org)
+[![MyST](https://img.shields.io/badge/markdown-MyST-orange)](https://myst-parser.readthedocs.io)
+[![MathJax](https://img.shields.io/badge/math-MathJax%204-1f6f8b)](https://www.mathjax.org)
+[![CoolProp](https://img.shields.io/badge/EOS%20reference-CoolProp-c8553d)](http://www.coolprop.org)
+[![PyInstaller](https://img.shields.io/badge/binaries-PyInstaller-4b8bbe)](https://pyinstaller.org)
+[![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/sandyherho/antasena)
+
 antasena computes what a nitrox diver and a gas blender need (MOD, best mix, equivalent air depth, no-decompression limits, gradient-factor decompression schedules, oxygen toxicity, real-gas blending and cylinder contents) and shows *how* every number is obtained. Each result has a **Why?** button that prints the governing equation, every intermediate value with your numbers substituted, the assumptions, and the validity range.
 
 The library has **zero runtime dependencies**: the standard library only, including the Tkinter app.
