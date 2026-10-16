@@ -4,6 +4,7 @@
 
 **Rigorous, educational nitrox diving calculations and a desktop app in pure Python.**
 
+[![DOI](https://zenodo.org/badge/1421674375.svg)](https://doi.org/10.5281/zenodo.23410341)
 [![Version](https://img.shields.io/badge/version-0.0.1-1f6f8b)](https://github.com/sandyherho/antasena)
 [![PyPI version](https://img.shields.io/pypi/v/antasena?color=1f6f8b&logo=pypi&logoColor=white)](https://pypi.org/project/antasena/)
 [![PyPI Python versions](https://img.shields.io/pypi/pyversions/antasena?logo=python&logoColor=white)
