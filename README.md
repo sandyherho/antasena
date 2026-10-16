@@ -9,7 +9,6 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-none%20(stdlib%20only)-2a9d6f)](https://docs.python.org/3/library/)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-12385a)](https://docs.python.org/3/library/tkinter.html)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
-[![Tests](https://github.com/sandyherho/antasena/actions/workflows/ci.yml/badge.svg)](https://github.com/sandyherho/antasena/actions/workflows/ci.yml)
 [![Docs](https://readthedocs.org/projects/antasena/badge/?version=latest)](https://antasena.readthedocs.io)
 [![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC?logo=pytest&logoColor=white)](https://pytest.org)
 [![Hypothesis](https://img.shields.io/badge/property%20tests-Hypothesis-6f42c1)](https://hypothesis.readthedocs.io)
