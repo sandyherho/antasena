@@ -8,7 +8,7 @@ If antasena contributes to your work, please cite the software. A machine-readab
              Handayani, Alfita P. and Irawan, Dasapta E.},
   title   = {{antasena: rigorous, educational nitrox diving calculations in pure Python}},
   year    = {2026},
-  version = {0.0.2},
+  version = {0.0.3},
   url     = {https://github.com/sandyherho/antasena}
 }
 ```
