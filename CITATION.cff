@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use antasena, please cite it as below."
 title: "antasena: rigorous, educational nitrox diving calculations in pure Python"
-version: 0.0.1
-date-released: 2026-10-15
+version: 0.0.2
+date-released: 2026-10-19
 license: MIT
 repository-code: "https://github.com/sandyherho/antasena"
 url: "https://antasena.readthedocs.io"
@@ -12,17 +12,27 @@ authors:
     given-names: Sandy H. S.
     email: sandyherho@itb.ac.id
     affiliation: "Bandung Institute of Technology"
-  - family-names: Anwar
-    given-names: Iwan P.
-  - family-names: Alifah
-    given-names: Andini
   - family-names: Khadami
     given-names: Faruq
+    email: fkhadami@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
+  - family-names: Anwar
+    given-names: Iwan P.
+    email: iwanpanwar@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
   - family-names: Sujatmiko
     given-names: Karina A.
+    email: karinaas@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
   - family-names: Biosa
     given-names: Sito F.
+    email:sito.fossy@binus.ac.id
+    affiliation: "BINUS University"
   - family-names: Handayani
     given-names: Alfita P.
+    email: alfita@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
   - family-names: Irawan
     given-names: Dasapta E.
+    email: dasaptaerwin@itb.ac.id
+    affiliation: "Bandung Institute of Technology"

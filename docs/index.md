@@ -93,4 +93,8 @@ Antasena is the son of Bima in Javanese wayang. He lives in the depths of the oc
 
 ## Authors
 
-Sandy H. S. Herho, Iwan P. Anwar, Andini Alifah, Faruq Khadami, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
+Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
+
+## Acknowledgments
+
+This work was funded by the ITB 3P Research Program 2026 (Talenta Unggul Scheme) through the Directorate of Research and Innovation at the Bandung Institute of Technology (Project ID: DRI.PN-6-64-2026). We thank the Indonesian Subaquatic Sport Association (POSSI) instructors Jemi Godjali (INA.F00.B3.0091, POSSI Board of Instructors), Saep Saepudin (INA.F00.B1.0396, Indonesian Navy), Mat Ningrum (INA.F00.B1.0375, Instrument Dive Adventure), and Subagiyo (INA.F00.B1.0412, Indonesian Navy) for their guidance during the basic and adventure scuba diving training. We are especially grateful to Andini Alifah (SSI PRO 124122, Mazu Divers) for her exceptional support, insight, and expertise regarding Enriched Air Nitrox 40 course.

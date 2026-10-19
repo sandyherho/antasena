@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath("../src"))
 import antasena  # noqa: E402
 
 project = "antasena"
-author = ("Sandy H. S. Herho, Iwan P. Anwar, Andini Alifah, Faruq Khadami, Karina A. Sujatmiko, "
+author = ("Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, Karina A. Sujatmiko, "
           "Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan")
 copyright = "2026, Bandung Institute of Technology"
 version = release = antasena.__version__

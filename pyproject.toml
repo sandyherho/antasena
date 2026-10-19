@@ -4,20 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "antasena"
-version = "0.0.1"
+version = "0.0.2"
 description = "Rigorous, educational nitrox diving calculations and desktop app in pure Python"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
   { name = "Sandy H. S. Herho", email = "sandyherho@itb.ac.id" },
-  { name = "Iwan P. Anwar" },
-  { name = "Andini Alifah" },
-  { name = "Faruq Khadami" },
-  { name = "Karina A. Sujatmiko" },
-  { name = "Sito F. Biosa" },
-  { name = "Alfita P. Handayani" },
-  { name = "Dasapta E. Irawan" },
+  {name = "Faruq Khadami", email="fkhadami@itb.ac.id" }  
+  {name = "Iwan P. Anwar", email="iwanpanwar@itb.ac.id" },
+  { name = "Karina A. Sujatmiko", email="karinaas@itb.ac.id" },
+  { name = "Sito F. Biosa", email="sito.fossy@binus.ac.id"},
+  { name = "Alfita P. Handayani", email="alfita@itb.ac.id" },
+  { name = "Dasapta E. Irawan", email="dasaptaerwin@itb.ac.id"},
 ]
 keywords = ["scuba", "nitrox", "diving", "decompression", "buhlmann", "equation of state",
             "gas blending", "education"]

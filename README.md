@@ -7,7 +7,6 @@
 [![DOI](https://zenodo.org/badge/1421674375.svg)](https://doi.org/10.5281/zenodo.23410341)
 [![Version](https://img.shields.io/badge/version-0.0.1-1f6f8b)](https://github.com/sandyherho/antasena)
 [![PyPI version](https://img.shields.io/pypi/v/antasena?color=1f6f8b&logo=pypi&logoColor=white)](https://pypi.org/project/antasena/)
-[![PyPI Python versions](https://img.shields.io/pypi/pyversions/antasena?logo=python&logoColor=white)
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Dependencies](https://img.shields.io/badge/dependencies-none%20(stdlib%20only)-2a9d6f)](https://docs.python.org/3/library/)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-12385a)](https://docs.python.org/3/library/tkinter.html)
@@ -144,7 +143,7 @@ Full documentation (installation, app guide, command line, theory, equation refe
 
 ## Authors
 
-Sandy H. S. Herho, Iwan P. Anwar, Andini Alifah, Faruq Khadami, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan
+Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan
 
 ## Citing
 

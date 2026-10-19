@@ -24,3 +24,8 @@ First release.
 * Logo: a keris with seven luk in a deep-water emblem (`tools/make_logo.py`), also used as the
   app's window icon.
 * Copyright: Bandung Institute of Technology.
+
+## 0.0.2 (2026-10-19)
+
+* Author list revised; Faruq Khadami is now second author.
+* Acknowledgments added to the README and the documentation front page.

@@ -21,8 +21,8 @@ from .planner import DiverState, Level, Tank, plan_dive, surface_interval
 from .toxicity import cns_segment, otu_segment
 from .uncertainty import Interval, mod_bounds, ndl_bounds
 
-__version__ = "0.0.1"
-__author__ = ("Sandy H. S. Herho, Iwan P. Anwar, Andini Alifah, Faruq Khadami, "
+__version__ = "0.0.2"
+__author__ = ("Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, "
               "Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan")
 __license__ = "MIT"
 __copyright__ = "Copyright (c) 2026 Bandung Institute of Technology"
