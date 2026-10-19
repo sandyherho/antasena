@@ -951,7 +951,7 @@ Rigorous, educational nitrox calculations in pure Python (standard library only)
 Named after Antasena, the son of Bima in Javanese wayang, who lives in the
 depths of the ocean and breathes underwater.
 
-Authors: Sandy H. S. Herho, Iwan P. Anwar, Andini Alifah, Faruq Khadami,
+Authors: Sandy H. S. Herho, , Faruq Khadami, Faizal A.R. Abdullah, Iwan P. Anwar,
          Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani,
          Dasapta E. Irawan
 License: MIT
