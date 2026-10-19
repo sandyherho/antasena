@@ -32,4 +32,4 @@ First release.
 
 ## 0.0.3 (2026-10-19)
 
-* Author list revised; Faizal A. R. Abdullah is now second author.
+* Author list revised; Faizal A. R. Abdullah is now third author.
