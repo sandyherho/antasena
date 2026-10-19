@@ -93,7 +93,7 @@ Antasena is the son of Bima in Javanese wayang. He lives in the depths of the oc
 
 ## Authors
 
-Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
+Sandy H. S. Herho, Faruq Khadami, Faizal A. R. Abdullah, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
 
 ## Acknowledgments
 

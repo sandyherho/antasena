@@ -2,7 +2,7 @@
 
 Copyright © 2026 Bandung Institute of Technology.
 
-Authors: Sandy H. S. Herho, Faruq Khadami, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
+Authors: Sandy H. S. Herho, Faruq Khadami, Faizal A. R. Abdullah, Iwan P. Anwar, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayani, Dasapta E. Irawan.
 
 antasena is released under the MIT License.
 

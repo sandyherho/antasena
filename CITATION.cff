@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use antasena, please cite it as below."
 title: "antasena: rigorous, educational nitrox diving calculations in pure Python"
-version: 0.0.2
+version: 0.0.3
 date-released: 2026-10-19
 license: MIT
 repository-code: "https://github.com/sandyherho/antasena"
@@ -15,6 +15,10 @@ authors:
   - family-names: Khadami
     given-names: Faruq
     email: fkhadami@itb.ac.id
+    affiliation: "Bandung Institute of Technology"
+  - family-names: Abdullah
+    given-names: Faizal A. R.
+    email: far.abdullah@itb.ac.id
     affiliation: "Bandung Institute of Technology"
   - family-names: Anwar
     given-names: Iwan P.

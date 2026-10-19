@@ -29,3 +29,7 @@ First release.
 
 * Author list revised; Faruq Khadami is now second author.
 * Acknowledgments added to the README and the documentation front page.
+
+## 0.0.3 (2026-10-19)
+
+* Author list revised; Faizal A. R. Abdullah is now second author.

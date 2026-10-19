@@ -4,7 +4,7 @@ If antasena contributes to your work, please cite the software. A machine-readab
 
 ```bibtex
 @software{herho2026antasena,
-  author  = {Herho, Sandy H. S. and Khadami, Faruq and Anwar, Iwan P. and Sujatmiko, Karina A. and Biosa, Sito F. and
+  author  = {Herho, Sandy H. S. and Khadami, Faruq and Abdullah, Faizal A. R. and Anwar, Iwan P. and Sujatmiko, Karina A. and Biosa, Sito F. and
              Handayani, Alfita P. and Irawan, Dasapta E.},
   title   = {{antasena: rigorous, educational nitrox diving calculations in pure Python}},
   year    = {2026},

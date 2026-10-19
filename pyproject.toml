@@ -4,14 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "antasena"
-version = "0.0.2"
+version = "0.0.3"
 description = "Rigorous, educational nitrox diving calculations and desktop app in pure Python"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
   { name = "Sandy H. S. Herho", email = "sandyherho@itb.ac.id" },
-  {name = "Faruq Khadami", email="fkhadami@itb.ac.id" },  
+  {name = "Faruq Khadami", email="fkhadami@itb.ac.id" }, 
+  {name = "Faizal A. R. Abdullah", email="far.abdullah@itb.ac.id" },  
   {name = "Iwan P. Anwar", email="iwanpanwar@itb.ac.id" },
   { name = "Karina A. Sujatmiko", email="karinaas@itb.ac.id" },
   { name = "Sito F. Biosa", email="sito.fossy@binus.ac.id"},
