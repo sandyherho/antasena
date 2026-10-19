@@ -11,7 +11,7 @@ requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
   { name = "Sandy H. S. Herho", email = "sandyherho@itb.ac.id" },
-  {name = "Faruq Khadami", email="fkhadami@itb.ac.id" }  
+  {name = "Faruq Khadami", email="fkhadami@itb.ac.id" },  
   {name = "Iwan P. Anwar", email="iwanpanwar@itb.ac.id" },
   { name = "Karina A. Sujatmiko", email="karinaas@itb.ac.id" },
   { name = "Sito F. Biosa", email="sito.fossy@binus.ac.id"},
